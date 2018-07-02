@@ -4,6 +4,7 @@
   "description": "NodeJS TCP echo server",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js"
   },
   "author": "Mathieu Delaunay"
 }
